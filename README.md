@@ -3,7 +3,7 @@
 # NULL THEORY LABS
 **Systems. Logic. First Principles.**
 
-<img src="icon.png" width="150" height="150" />
+<img src="icon.png" width="200" height="250" />
 
 ---
 
